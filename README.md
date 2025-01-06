@@ -1,4 +1,4 @@
-# Secure JavaScript Search Engine
+# Secure Search Engine
 
 This project is a secure and professional JavaScript-based search engine for websites, designed to provide a seamless user experience.
 
